@@ -1,0 +1,8 @@
+Tensorflow/data
+Tensorflow/session*
+*.ipynb
+nohup.out
+checkpoint
+.DS_Store
+.idea
+Game/out
